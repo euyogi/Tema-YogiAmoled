@@ -1,3 +1,5 @@
+<img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=header">
+
 # Tema-YogiAmoled
 
 Um tema para as IDEs Jetbrains.
@@ -23,3 +25,7 @@ em seguida em "Install Plugin from Disk..." e selecione o .jar baixado.
 
 Caso o tema não tenha sido automaticamente ativado, clique novamente na primeira engrenagem (sem ser a da página de plugins).
 selecione Theme..., clique no tema Yogi Amoled.
+
+<p align="center">Feito por: Yogi Nam de Souza Barbosa</p>
+
+<img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=footer">
