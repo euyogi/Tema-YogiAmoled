@@ -1,0 +1,21 @@
+<idea-plugin>
+  <id>yogi-amoled</id>
+  <name>Yogi Amoled</name>
+  <vendor url="https://github.com/euyogi/Tema-YogiAmoled">Yogi Amoled</vendor>
+  <version>1.0</version>
+
+  <depends>com.intellij.modules.lang</depends>
+  <idea-version since-build="191.0"/>
+
+  <description>
+  <![CDATA[
+  An amoled theme.
+  <br/><br/>
+  <img src="https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/3fd31e08-bcc6-4054-a75f-e4898208acdf" border="0" width="360"/><br/>
+  ]]>
+  </description>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="b7abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" path="/default.theme.json"/>
+  </extensions>
+</idea-plugin>
