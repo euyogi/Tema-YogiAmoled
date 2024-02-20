@@ -1,4 +1,4 @@
-<img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=header">
+<img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header">
 
 # Tema-YogiAmoled
 
@@ -28,4 +28,4 @@ selecione Theme..., clique no tema Yogi Amoled.
 
 <p align="center">Feito por: Yogi Nam de Souza Barbosa</p>
 
-<img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=footer">
+<img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer">
