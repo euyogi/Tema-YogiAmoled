@@ -95,7 +95,7 @@
     },
     "CheckBox": {
       "background": "#000000",
-      "disabledText": "#000000",
+      "disabledText": "#5E5E5A",
       "foreground": "#cecec3",
       "select": "#fc9867"
     },
@@ -157,7 +157,7 @@
         "background": "#000000",
         "nonEditableBackground": "#000000",
         "iconColor": "#cecec3",
-        "disabledIconColor": "#000000"
+        "disabledIconColor": "#5E5E5A"
       },
       "background": "#111111",
       "disabledForeground": "#605f62",
@@ -165,7 +165,7 @@
       "modifiedItemForeground": "#78dce8",
       "nonEditableBackground": "#111111",
       "selectionBackground": "#78dce8",
-      "selectionForeground": "#000000"
+      "selectionForeground": "#5E5E5A"
     },
     "ComboPopup": {
       "border": "0,0,0,0,000000"
@@ -269,8 +269,8 @@
       "caretForeground": "#ffd866",
       "foreground": "#cecec3",
       "inactiveBackground": "#222222",
-      "inactiveForeground": "#000000",
-      "selectionBackground": "#000000",
+      "inactiveForeground": "#5E5E5A",
+      "selectionBackground": "#5E5E5A",
       "selectionForeground": "#ffd866",
       "splitBorder": "#727072"
     },
@@ -415,7 +415,7 @@
       "disabledBackground": "#000000",
       "disabledForeground": "#605f62",
       "foreground": "#cecec3",
-      "highlight": "#000000",
+      "highlight": "#5E5E5A",
       "selectionBackground": "#222222",
       "selectionForeground": "#ffd866",
       "shadow": "#000000"
