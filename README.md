@@ -2,7 +2,7 @@
 
 # Tema-YogiAmoled
 
-Um tema para as IDEs Jetbrains.
+Um tema amoled para as IDEs Jetbrains.
 
 Baseado no tema <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">Monokai Pro</a>, mas com fundos totalmente pretos.
 
