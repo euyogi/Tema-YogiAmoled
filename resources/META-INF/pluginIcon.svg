@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" version="1.1" viewBox="0 0 80 80"><g transform="matrix(2.07 0 0 2.07 40 40)"><polygon style="stroke:#000;stroke-width:0;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:#140a0a;fill-rule:nonzero;opacity:1" points="-50 -50 50 50 -50 50" vector-effect="non-scaling-stroke"/></g><g transform="matrix(1 0 0 1 40 40)"><linearGradient id="SVGID_4" x1="0" x2="40" y1="0" y2="130" gradientTransform="matrix(1 0 0 1 -65 -65)" gradientUnits="userSpaceOnUse"><stop offset="0%" style="stop-color:#d150ff;stop-opacity:1"/><stop offset="100%" style="stop-color:#00f;stop-opacity:1"/></linearGradient><circle style="stroke:none;stroke-width:1;stroke-dasharray:none;stroke-linecap:butt;stroke-dashoffset:0;stroke-linejoin:miter;stroke-miterlimit:4;fill:url(#SVGID_4);fill-rule:nonzero;opacity:1" cx="0" cy="0" r="25"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="80" height="80" viewBox="0 0 80 80">
+<g transform="matrix(2.07 0 0 2.07 40 40)"  >
+<polygon style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(20,10,10); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-50,-50 50,50 -50,50 " />
+</g>
+<g transform="matrix(1 0 0 1 40 40)"  >
+<linearGradient id="SVGID_4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -65 -65)"  x1="0" y1="0" x2="40" y2="130">
+<stop offset="0%" style="stop-color:rgb(209,80,255);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity: 1"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_4); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="25" />
+</g>
+</svg>

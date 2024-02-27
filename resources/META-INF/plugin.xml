@@ -1,21 +1,27 @@
 <idea-plugin>
   <id>yogi-amoled</id>
   <name>Yogi Amoled</name>
-  <vendor url="https://github.com/euyogi/Tema-YogiAmoled">Yogi Amoled</vendor>
+  <vendor url="https://github.com/euyogi/">euyogi</vendor>
   <version>1.0</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
 
   <description>
-  <![CDATA[
-  An amoled theme based on Monokai Pro.
-  <br/><br/>
-  Source code: <a href="https://github.com/euyogi/Tema-YogiAmoled/">Yogi Amoled on Github</a>
-  ]]>
+    <![CDATA[
+      An amoled theme. <br>
+      Based on <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">Monokai Pro theme</a>, but with totally black backgrounds.
+      <br><br>
+      Check out: <a href="https://github.com/euyogi/Tema-YogiAmoled">Github Repository</a>
+      <br><br>
+      Screenshots: <br>
+      <img src="https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/708f3baf-743b-450e-8ee8-f173705d5485" border="0" width="360"/><br/>
+      <img src="https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/5b44fd54-b961-4297-9ca6-c3e98f9008fa" border="0" width="360"/><br/>
+      <img src="https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/d07643c8-ed4d-410e-a298-45f4f7243e43" border="0" width="360"/><br/>
+    ]]>
   </description>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="b7abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" path="/default.theme.json"/>
+    <themeProvider id="1bf66303-7318-44c3-8fae-6c6f0eb3fd53" path="/default.theme.json"/>
   </extensions>
 </idea-plugin>
