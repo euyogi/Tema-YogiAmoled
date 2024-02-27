@@ -12,13 +12,16 @@ Baseado no tema <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-
 
 <h2>Imagens:</h2>
 
-PyCharm:
-
-![Imagem do tema 1](https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/b97577f0-93bd-4da6-b49f-a1d0e43f4c34)
-
 CLion Nova:
+![Imagem do tema no CLion](https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/708f3baf-743b-450e-8ee8-f173705d5485)
 
-![Imagem do tema 2](https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/bbf9064a-7aa3-4870-a523-551a01657ece)
+PyCharm:
+![Imagem do tema no PyCharm](https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/5b44fd54-b961-4297-9ca6-c3e98f9008fa)
+
+IDEA:
+![Imagem do tema no IDEA](https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/d07643c8-ed4d-410e-a298-45f4f7243e43)
+
+
 
 <h2>Para testar:</h2>
 
