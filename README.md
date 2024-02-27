@@ -5,7 +5,9 @@
 Um tema amoled para as IDEs Jetbrains.
 
 <p align="center">
-<img src="https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/1a8b617e-aaa6-4a8a-9e82-1d629f38d708">
+  <a href="https://plugins.jetbrains.com/plugin/23863-yogi-amoled">
+    <img src="https://github.com/euyogi/Tema-YogiAmoled/assets/46427886/1a8b617e-aaa6-4a8a-9e82-1d629f38d708">
+  </a>
 </p>
 
 Baseado no tema <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">Monokai Pro</a>, mas com fundos totalmente pretos.
