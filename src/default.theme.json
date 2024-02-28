@@ -225,7 +225,7 @@
       "tagForeground": "#fd5",
       "tagBackground": "#111",
       "Button": {
-        "installBackground": "#191",
+        "installBackground": "#000",
         "installBorderColor": "#000",
         "installForeground": "#eee",
         "installFocusedBackground": "#191",
@@ -234,9 +234,6 @@
         "updateBackground": "#191",
         "updateBorderColor": "#000",
         "updateForeground": "#eee"
-      },
-      "SearchField": {
-        "background": "#111"
       },
       "SectionHeader": {
         "foreground": "#888"
