@@ -7,13 +7,21 @@
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
 
-  <description>
-    <![CDATA[
-      An amoled theme. <br>
-      Based on <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">Monokai Pro theme</a>, but with totally black backgrounds.
-      <br><br>
-      Check out: <a href="https://github.com/euyogi/Tema-YogiAmoled">Github Repository</a>
-    ]]>
+  <change-notes><![CDATA[
+    <h3>1.1</h3>
+    <ul>
+      <li>Search fields background from dark gray to black</li>
+      <li>Plugins install button background from green to black</li>
+    </ul>
+  ]]>
+  </change-notes>
+
+  <description><![CDATA[
+    An amoled theme. <br>
+    Based on <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">Monokai Pro theme</a>, but with totally black backgrounds.
+    <br><br>
+    Check out: <a href="https://github.com/euyogi/Tema-YogiAmoled">Github Repository</a>
+  ]]>
   </description>
 
   <extensions defaultExtensionNs="com.intellij">
