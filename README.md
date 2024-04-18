@@ -27,7 +27,11 @@ IDEA:
 
 <h2>Para testar:</h2>
 
-Baixe o plugin <a href="https://github.com/euyogi/Tema-YogiAmoled/releases/download/release/yogi-amoled.jar">.jar</a> aqui.
+Instale o tema <a href="https://plugins.jetbrains.com/plugin/23863-yogi-amoled">aqui</a>.
+
+ou
+
+Baixe o plugin <a href="https://github.com/euyogi/Tema-YogiAmoled/releases/download/release1.2/yogi-amoled.jar">.jar</a> aqui.
 
 Na IDE da Jetbrains de sua escolha clique na engrenagem no canto superior direito, selecione "Plugins...", clique na engrenagem,
 em seguida em "Install Plugin from Disk..." e selecione o .jar baixado.
