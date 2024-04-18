@@ -1,5 +1,5 @@
-<?xml version="1.1" encoding="UTF-8"?>
-<scheme name="Yogi Amoled" version="11" parent_scheme="Darcula">
+<?xml version="1.2" encoding="UTF-8"?>
+<scheme name="Yogi Amoled" version="12" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-04-20T06:09:00</property>
@@ -17,7 +17,7 @@
     <option name="DELETED_LINES_COLOR" value="fc618d" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="111111" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="111111" />
-    <option name="DOCUMENTATION_COLOR" value="333333" />
+    <option name="DOCUMENTATION_COLOR" value="000000" />
     <option name="FILESTATUS_ADDED" value="7bd88f" />
     <option name="FILESTATUS_COPIED" value="7bd88f" />
     <option name="FILESTATUS_DELETED" value="69676c" />
@@ -41,10 +41,10 @@
     <option name="FILESTATUS_modifiedOutside" value="5ad4e6" />
     <option name="GUTTER_BACKGROUND" value="000" />
     <option name="INDENT_GUIDE" value="111111" />
-    <option name="INFORMATION_HINT" value="333333" />
+    <option name="INFORMATION_HINT" value="000000" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
-    <option name="LOOKUP_COLOR" value="333333" />
+    <option name="LOOKUP_COLOR" value="000000" />
     <option name="METHOD_SEPARATORS_COLOR" value="111111" />
     <option name="MODIFIED_LINES_COLOR" value="fd9353" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -79,7 +79,7 @@
     <option name="TAB_UNDERLINE" value="ffdd55" />
     <option name="TAB_UNDERLINE_INACTIVE" value="ffdd55" />
     <option name="TEARLINE_COLOR" value="333333" />
-    <option name="TOOLTIP" value="333333" />
+    <option name="TOOLTIP" value="000" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="69676c" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="fc618d" />
@@ -3789,7 +3789,7 @@
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="333333" />
+        <option name="BACKGROUND" value="000000" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">

@@ -18,7 +18,7 @@
       "inactiveBackground": "#000",
       "inactiveForeground": "#333",
       "infoForeground": "#888",
-      "selectionBackground": "#333",
+      "selectionBackground": "#111",
       "selectionBackgroundInactive": "#000",
       "selectionForeground": "#fd5",
       "selectionInactiveBackground": "#333",

@@ -2,7 +2,7 @@
   <id>yogi-amoled</id>
   <name>Yogi Amoled</name>
   <vendor url="https://github.com/euyogi/">euyogi</vendor>
-  <version>1.1</version>
+  <version>1.2</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
@@ -12,6 +12,12 @@
     <ul>
       <li>Search fields background from dark gray to black</li>
       <li>Plugins install button background from green to black</li>
+    </ul>
+
+    <h3>1.2</h3>
+    <ul>
+      <li>Documentation popup background from light gray to black</li>
+      <li>Autocomplete popup background from light gray to black</li>
     </ul>
   ]]>
   </change-notes>
