@@ -6,7 +6,7 @@ Um tema amoled para as IDEs Jetbrains e Zed.
 
 Baseado no tema <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">Monokai Pro</a>, mas com fundos totalmente pretos.
 
-![Imagem do tema no CLion](Jetbrains/yogi-amoled/screenshots/cLion.png)
+![Imagem do tema no CLion](Jetbrains/yogi-amoled/screenshots/clion.png)
 
 ![Imagem do tema no Zed](Zed/screenshots/zed.png)
 
