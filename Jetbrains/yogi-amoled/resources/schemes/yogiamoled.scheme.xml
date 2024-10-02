@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Yogi Amoled" version="13">
-    <option name="FONT_SCALE" value="1.3"/>
+<scheme name="Yogi Amoled" version="14">
+    <option name="FONT_SCALE" value="1.4"/>
     <colors>
         <option name="ADDED_LINES_COLOR" value="7bd88f"/>
         <option name="ANNOTATIONS_COLOR" value="eeeeee"/>
