@@ -1,6 +1,6 @@
 id = "yogi-amoled"
 name = "Yogi Amoled"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 0
 description = "An amoled theme. Based on Monokai Pro theme, but with totally black backgrounds."
 repository = "https://github.com/euyogi/Tema-YogiAmoled"
